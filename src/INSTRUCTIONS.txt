@@ -1,0 +1,12 @@
+First, read all of the comments in ALL of the classes. As you read those comments, write down your tasks so 
+you can keep track of them and not forget any.
+
+Then make sure no values given to a constructor of the Child class can receive invalid values. 
+(ex: can a name be null? can a name be an empty string?)
+
+After you finish that work, write tests, AT LEAST ONE FOR EACH CONSTRUCTOR of the Child class. 
+Tests should be done using Scanner and the keyboard.
+
+RULE: unless I asked you to take care of something or change something, do not change it.
+
+That is all (and enough... lol).
